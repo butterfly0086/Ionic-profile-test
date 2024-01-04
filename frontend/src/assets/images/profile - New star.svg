@@ -1,0 +1,55 @@
+<svg width="64" height="62" viewBox="0 0 64 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="profile - fill star - static 1" opacity="0.5" filter="url(#filter0_dddddd_3_4213)">
+<g id="star gold orange" opacity="0.2">
+<path id="Rectangle 18" d="M32.0271 33.1828L32.0252 33.1838L32.0266 33.1864L32.0286 33.1854L32.0271 33.1828Z" fill="#808080"/>
+<path id="Rectangle 19" d="M32.0288 33.1833H32.0268V33.1853H32.0288V33.1833Z" fill="#808080"/>
+<path id="Path 73" d="M32.0273 33.1833L54 25.9552L39.2228 23.2029L32.0273 33.1817V33.1833Z" fill="#F9C543"/>
+<path id="Rectangle 20" d="M32.0288 33.1844H32.0268V33.1864H32.0288V33.1844Z" fill="#808080"/>
+<path id="Path 75" d="M43.7438 36.9431L54 25.9568L32.0273 33.185L43.7438 36.9431Z" fill="#F9C543"/>
+<path id="Path 77" d="M20.3393 37.0277L18.4955 51.9458L32.0241 33.1854L20.3393 37.0277Z" fill="#F9C543"/>
+<path id="Path 78" d="M32.0241 33.1849L18.4955 51.9458L32.0718 45.4874L32.0273 33.1849H32.0241Z" fill="#F9C543"/>
+<path id="Path 79" d="M39.2228 23.2045L31.9443 10.0493L32.0273 33.1833L39.2228 23.2045Z" fill="#F9C543"/>
+<path id="Path 80" d="M32.0273 33.1849L45.6909 51.8494L43.7454 36.9431L32.0273 33.1849Z" fill="#F9C543"/>
+<path id="Path 81" d="M32.0273 33.1849L32.0718 45.4874L45.6909 51.8494L32.0289 33.1849H32.0273Z" fill="#F9C543"/>
+<path id="Path 82" d="M32.0273 33.1833L31.9443 10.0499L24.7579 23.2549L32.0268 33.1833H32.0273Z" fill="#F9C543"/>
+<path id="Path 83" d="M24.7579 23.2549L10 26.1132L32.0273 33.1838L24.7579 23.2549Z" fill="#F9C543"/>
+<path id="Path 84" d="M32.0273 33.1833L10 26.1127L20.3382 37.0267L32.023 33.1844L32.0273 33.1833Z" fill="#F9C543"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_dddddd_3_4213" x="0.242506" y="-0.757494" width="63.515" height="63.515" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.116161"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.8 0 0 0 0 0.772549 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3_4213"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.232321"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.8 0 0 0 0 0.772549 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_3_4213" result="effect2_dropShadow_3_4213"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.813125"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.8 0 0 0 0 0.772549 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect2_dropShadow_3_4213" result="effect3_dropShadow_3_4213"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="1.62625"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.8 0 0 0 0 0.772549 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect3_dropShadow_3_4213" result="effect4_dropShadow_3_4213"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="2.78786"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.8 0 0 0 0 0.772549 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect4_dropShadow_3_4213" result="effect5_dropShadow_3_4213"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="4.87875"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.8 0 0 0 0 0.772549 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="effect5_dropShadow_3_4213" result="effect6_dropShadow_3_4213"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect6_dropShadow_3_4213" result="shape"/>
+</filter>
+</defs>
+</svg>
